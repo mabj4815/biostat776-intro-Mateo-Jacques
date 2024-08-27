@@ -21,15 +21,18 @@ I am a Cancer Epidemiologist who specializes in longitudinal data analysis, and 
 ## Education 🎓
 
 
-**Johns Hopkins Bloomberg School of Public Health** | Baltimore, USA
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Johns Hopkins Bloomberg School of Public Health</strong> | <span style="color:#6c757d;">Baltimore, USA</span><br>
+  <span style="color:#28a745;">PhD in Epidemiology</span> <em>(Expected 2027)</em><br>
+  <span style="color:#28a745;">ScM in Epidemiology</span> <em>(2023)</em>
+</div>
 
-PhD in Epidemiology (Exp 2027)
-ScM in Epidemiology (2023)
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Instituto Nacional de Salud Pública</strong> | <span style="color:#6c757d;">Mexico City, MEX</span><br>
+  <span style="color:#28a745;">MPH in Epidemiology</span> <em>(2021)</em>
+</div>
 
-**Instituto Nacional de Salud Pública** | Mexico City, MEX
-
-MPH in Epidemiology (2021)
-
-**Instituto Tecnológico y de Estudios Superiores de Monterrey** | Monterrey, MEX
-
-Doctor of Medicine (2018)
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Instituto Tecnológico y de Estudios Superiores de Monterrey</strong> | <span style="color:#6c757d;">Monterrey, MEX</span><br>
+  <span style="color:#28a745;">Doctor of Medicine</span> <em>(2018)</em>
+</div>
