@@ -3,17 +3,33 @@ title: "Mateo Jacques"
 image: "Mateo.jpeg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/antonio-b-jacques-md-mph-67241a102/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Antonio-Bandala-Jacques"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/mabj4815"
   - label: Email
     url: "mailto:abandal1@jh.edu"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Cancer Epidemiologist who specializes in longitudinal data analysis, and machine learning algorithms
+
+
+
+## Education 🎓
+
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, USA
+
+PhD in Epidemiology (Exp 2027)
+ScM in Epidemiology (2023)
+
+**Instituto Nacional de Salud Pública** | Mexico City, MEX
+
+MPH in Epidemiology (2021)
+
+**Instituto Tecnológico y de Estudios Superiores de Monterrey** | Monterrey, MEX
+
+Doctor of Medicine (2018)
